@@ -8,6 +8,3 @@ This is another line.
 
 ## Third Line
 This is Third line.
-
-
-New Changes
